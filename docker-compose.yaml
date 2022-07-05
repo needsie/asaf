@@ -1,0 +1,6 @@
+﻿services:
+  asaf:
+    asaf: .
+    shm_size: 2.6gb
+    ports:
+      - "80:80"
